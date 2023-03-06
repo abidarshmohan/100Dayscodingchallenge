@@ -1,0 +1,1 @@
+Day 45 : Problem statement : Get an array as input from the user and then find the smallest and largest element in the array.
