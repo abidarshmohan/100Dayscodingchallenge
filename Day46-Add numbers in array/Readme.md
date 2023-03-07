@@ -1,0 +1,1 @@
+Day46 - Problem Statement : Get an array as the input from the user and find the sum of the elements.
