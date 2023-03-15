@@ -1,0 +1,1 @@
+Day48- Problem Statement : Get an array as input from the user and then remove all the duplicate elements in that array.
