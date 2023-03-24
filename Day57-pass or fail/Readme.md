@@ -1,0 +1,3 @@
+Day57-Problem Statement :Anusree is struggling to pass a certain college course.
+The test has a total of N question, each question carries 3 marks for a correct answer and −1 for an incorrect answer. Anusree is a risk-averse person so he decided to attempt all the questions. It is known that Anusree got X questions correct and the rest of them incorrect. For Anusree to pass the course he must score at least P marks.
+Will Anusree be able to pass the exam or not?
