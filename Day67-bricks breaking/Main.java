@@ -11,7 +11,7 @@ public class Main {
             int w1=sc.nextInt();
             int w2=sc.nextInt();
             int w3=sc.nextInt();
-            System.out.println("********");
+            System.out.println("********\n");
             if((w1+w2+w3)<=s){
                 System.out.println(1);
                 }else if((w1+w2)<=s){
